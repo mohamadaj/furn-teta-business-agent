@@ -6,7 +6,7 @@ EECE 503P/798S – Assignment C3: Introduction to Agents
 She answers customer questions, collects leads for catering and workshops, and logs feedback and
 questions she can't answer.
 
-🎥 **Demo video:** _add link here_
+🎥 **Demo video:** https://youtu.be/ry5ukHw4w8o
 
 ## Features
 - **Persona + Instructions**: clearly separated: *who* Zeina is vs. the rules she must follow
