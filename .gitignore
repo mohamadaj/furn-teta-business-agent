@@ -1,0 +1,7 @@
+# secrets
+.env
+# runtime logs (leads/feedback), generated when the bot runs
+logs.jsonl
+# python / notebook junk
+__pycache__/
+.ipynb_checkpoints/
